@@ -14,7 +14,9 @@ public class Main
         sentenciaSwitch.menu();
     */
         SentenciaRepeticion sentenciaRepeticion = new SentenciaRepeticion();
-        sentenciaRepeticion.sentenciaFor();
-        sentenciaRepeticion.sentenciaMultiplicar();
+        //sentenciaRepeticion.sentenciaFor();
+        //sentenciaRepeticion.sentenciaMultiplicar();
+        //sentenciaRepeticion.sentenciaWhile();
+        sentenciaRepeticion.imprimirMenu();
     }
 }
